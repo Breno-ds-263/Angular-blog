@@ -1,0 +1,21 @@
+.container__big-card {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+  width: 90%;
+  height: 40rem;
+  gap: 9px;
+}
+
+.big-card__title > h2 > a {
+  font-size: 50px;
+}
+
+.big-card__description p > a {
+  color: gray;
+}
+
+.big-card__photo img {
+  width: 100%;
+  min-width: 400px;
+}

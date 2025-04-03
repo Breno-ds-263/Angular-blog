@@ -1,0 +1,15 @@
+.contaier__small-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+}
+
+.small-card__photo > img {
+  width: 250px;
+  height: 150px;
+}
+
+.small-card__title {
+  font-size: 12px;
+}
